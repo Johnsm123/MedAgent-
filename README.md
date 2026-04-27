@@ -1,4 +1,4 @@
-# AI Medical Advisory System — AutoGen
+# AI Medical Advisory System — AutoGen NEO4J_URI=neo4j+s://6dd90b2f.databases.neo4j.io
 A multi-agent AI system for medical case analysis using Microsoft AutoGen framework.
 
 > ⚠️ **DISCLAIMER**: This system is for educational/research purposes only. It is NOT a substitute for professional medical advice, diagnosis, or treatment.
