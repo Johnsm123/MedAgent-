@@ -1,11 +1,4 @@
 # AI Medical Advisory System — AutoGen
-NEO4J_URI=neo4j+s://6dd90b2f.databases.neo4j.io
-NEO4J_USERNAME=6dd90b2f
-NEO4J_PASSWORD=ReMYGBgsQV1NyckiDILxmASg6d9bo66rWZw-2xK8fCA
-NEO4J_DATABASE=6dd90b2f
-AZURE_OPENAI_ENDPOINT=https://kgraphopenai26.openai.azure.com/
-AZURE_OPENAI_API_KEY=6jjuT1Fv1DDzYfpG88zq9TC4hqUWW7PCxmExpzPpAzQAlO9b33QTJQQJ99CDACYeBjFXJ3w3AAABACOGcKnz
-AZURE_OPENAI_API_VERSION=2024-12-01-preview
 A multi-agent AI system for medical case analysis using Microsoft AutoGen framework.
 
 > ⚠️ **DISCLAIMER**: This system is for educational/research purposes only. It is NOT a substitute for professional medical advice, diagnosis, or treatment.
